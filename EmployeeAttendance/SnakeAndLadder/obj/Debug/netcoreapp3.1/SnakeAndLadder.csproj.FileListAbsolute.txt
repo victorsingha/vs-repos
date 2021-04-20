@@ -1,0 +1,12 @@
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.exe
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.deps.json
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.runtimeconfig.json
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.runtimeconfig.dev.json
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\bin\Debug\netcoreapp3.1\SnakeAndLadder.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.AssemblyInfoInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.AssemblyInfo.cs
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\SnakeAndLadder\obj\Debug\netcoreapp3.1\SnakeAndLadder.genruntimeconfig.cache

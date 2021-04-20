@@ -1,0 +1,13 @@
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.exe
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.deps.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.runtimeconfig.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.runtimeconfig.dev.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\bin\Debug\netcoreapp3.1\CompareTo_Equals.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.csprojAssemblyReference.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.AssemblyInfoInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.AssemblyInfo.cs
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\CompareTo_Equals\obj\Debug\netcoreapp3.1\CompareTo_Equals.genruntimeconfig.cache

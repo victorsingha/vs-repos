@@ -1,0 +1,13 @@
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.exe
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.deps.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.runtimeconfig.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.runtimeconfig.dev.json
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\bin\Debug\netcoreapp3.1\CalculateDailyWage.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.csprojAssemblyReference.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.AssemblyInfoInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.AssemblyInfo.cs
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.dll
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.pdb
+C:\Users\vicun\source\repos\EmployeeAttendance\CalculateDailyWage\obj\Debug\netcoreapp3.1\CalculateDailyWage.genruntimeconfig.cache

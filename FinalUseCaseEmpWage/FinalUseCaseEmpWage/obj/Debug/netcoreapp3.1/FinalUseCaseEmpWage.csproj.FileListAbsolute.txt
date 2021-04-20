@@ -1,0 +1,13 @@
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.exe
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.deps.json
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.runtimeconfig.json
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.runtimeconfig.dev.json
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.dll
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\bin\Debug\netcoreapp3.1\FinalUseCaseEmpWage.pdb
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.csprojAssemblyReference.cache
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.AssemblyInfoInputs.cache
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.AssemblyInfo.cs
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.dll
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.pdb
+C:\Users\vicun\source\repos\FinalUseCaseEmpWage\FinalUseCaseEmpWage\obj\Debug\netcoreapp3.1\FinalUseCaseEmpWage.genruntimeconfig.cache
